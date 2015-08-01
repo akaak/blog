@@ -9,7 +9,7 @@ title:               akaAK
 tagline:             Personal Blog
 url:                 http://akaak.github.io/blog/
 paginate:            1
-baseurl:             http://akaak.github.io/blog/
+baseurl:             http://akaak.github.io/blog
 
 # Assets
 #
