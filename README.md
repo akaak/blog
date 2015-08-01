@@ -1,10 +1,8 @@
-akaak
-=====
+# Blog
 
-AK Blog
+AK Adapa Blog.
 
-Technology related blog items.
+- <https://github.com/akaak>
+- <https://twitter.com/akadapa>
 
-Python
-------
-More information will be added soon.
+
