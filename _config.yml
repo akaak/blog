@@ -2,14 +2,20 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# removed for Jekyll v3.0
+#relative_permalinks: true
 
 # Setup
 title:               akaAK
 tagline:             Personal Blog
-url:                 http://akaak.github.io/blog/
 paginate:            1
-baseurl:             http://akaak.github.io/blog
+#url:                 http://akaak.github.io/blog/
+#baseurl:             http://akaak.github.io/blog
+baseurl:             ""
+
+# added for Jekyll v3.0
+gems: [jekyll-paginate]
+paginate_path: "page:num"
 
 # Assets
 #
