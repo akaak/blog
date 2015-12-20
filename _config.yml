@@ -7,12 +7,12 @@ permalink:           pretty
 
 # Setup
 title:               akaAK
-tagline:             Personal Blog
+tagline:             AK Adapa engineering, tech, findings blog
 paginate:            1
 url:                 http://akaak.github.io/blog/
-baseurl:             http://akaak.github.io/blog
+#baseurl:             http://akaak.github.io/blog
 # baseurl has to be blank for localhost to work
-#baseurl:             ""
+baseurl:             ""
 
 # added for Jekyll v3.0
 gems: [jekyll-paginate]
@@ -35,3 +35,9 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/akaak
+
+# List of pages to include in the header.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  #Feed: '/atom.xml'
