@@ -14,17 +14,6 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-<div class="large-6 columns">
-  <h3>RECENT POSTS</h3>
-  {% for post in site.posts limit: 4 %}
-  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-  <p>{{ post.content | strip_html | truncatewords:65 }}</p>
-  <p><a href="{{ post.url }}">Read More</a></p>
-  {% endfor %}
-</div>
-
-
-
     {{ post.content }}
   </article>
   {% endfor %}
