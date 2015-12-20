@@ -25,3 +25,6 @@ title: Site Credits
 - [@joshualande](http://twitter.com/joshualande) blog article on using [Jekyll, Github Pages, and Poole](http://joshualande.com/jekyll-github-pages-poole/) provided all the required details about setting up blog "pages", the blog posts archive page, adding disqus comments etc. **Highly recommend** this article.
 
 - TODO: Fulltext Search on Jekyll site <http://dreamand.me/web/fulltext-search-at-jekyll-site/>
+
+- TODO: Add tags and categories for posts; list posts under archives by tags/categories.
+Is this what I should look at? <https://github.com/jekyll/jekyll-archives>
