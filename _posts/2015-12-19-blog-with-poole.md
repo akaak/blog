@@ -1,8 +1,12 @@
 ---
 layout: post
-title: How is blog built?
+title: "How is blog built?"
+published: true
 ---
 
-How is the blog built?
+
+How is this blog built?
 
 Jekyll + Poole + Github Pages
+
+Trying the page editing in prose.
