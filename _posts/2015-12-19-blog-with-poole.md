@@ -12,3 +12,5 @@ There are many options for writing and hosting a blog. But, I wanted to stick wi
 The [markdown](http://daringfireball.net/projects/markdown/) is a great way to write blog posts. Jekyll gives the platform to generate the static site. [Poole](http://getpoole.com) gives a suite of posts, templates, and styles for Jekyll. Github Pages, of course, in conjunction with github let me host and manage the blog. 
 
 If you are interested in creating a site like mine, please review [credits](/credits) page or write to me and I will be happy to give you some pointers. 
+
+
