@@ -5,16 +5,14 @@ title: Site Credits
 
 
 
-#### The Basics:
+#### The Basics
 
-- Github
-- Jekyll
-- Poole
+- Github, Jekyll, Poole
 
 
-#### Resources:
+#### Resources
 
-- Start with the [poole](https://github.com/poole/poole) for setting up a basic site. When in doubt, you may refere to the Jekyll and Github Pages documentation:
+- Start with the [Poole](https://github.com/poole/poole) for setting up a basic site. When in doubt, you may refere to the Jekyll and Github Pages documentation:
 
 
 	- The official [Jekyll](http://jekyllrb.com/) website.
@@ -29,7 +27,12 @@ title: Site Credits
 - TODO: Add tags and categories for posts; list posts under archives by tags/categories.
 Is this what I should look at? <https://github.com/jekyll/jekyll-archives>
 
-#### TIPS:
+#### Inspiration
+
+The inspiration to do a blog on github pages came to me while I was exploring markdown. I do not remember what is one blog/site that I come across that made me setup this blog. But, as of Dec 2015, I get inspired by a very informative blog by [Ben Balter](https://github.com/benbalter/benbalter.github.com) that uses the Jekyll + Github Pages. Mr. Balter lets others pull his blog and make updates/corrections. 
+
+
+#### Tips
 
 - There are some gotchas that one has to be aware of when setting up the site. I had trouble with `baseurl` config setting when _not_ using custom domain. Came across a Jekyll issue [comment](https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908) on how to serve on localhost. The following should take care of the localhost start:
 	-	`jekyll serve --baseurl '' `
