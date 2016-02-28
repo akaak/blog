@@ -1,6 +1,7 @@
-
-# New Static Site Generator
-## Lektor 
+---
+layout: post
+title: New Static Site Generator (Lektor)
+---
 
 There are many static site generators. The new open source static site generator is Lektor. Armin Ronacher (the creator of Python Flask framework) came up with this static site generator. He gives why came up with this project in a blog [post](https://www.getlektor.com/blog/2015/12/hello-lektor/).
 
@@ -78,7 +79,7 @@ AK-Mac:marketing_site ak$ lektor server
 
 Go to the local host at http://127.0.0.1:5000/ to browse the site!
 
-![Lektor Site on Localhost](lektor1.png)
+![Lektor Site on Localhost]({{site.baseurl}}/assets/img/lektor1.png)
 
 
 ### Building the Site
