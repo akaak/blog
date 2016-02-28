@@ -9,9 +9,9 @@ By having some server side scripting you can make a website behave dynamic. Usin
 
 The following github project provides a complete flask + ninja website using the server side includes giving a dynamic website with very little effort:
 
-https://github.com/mjhea0/thinkful-mentor/tree/master/python/jinja
+<https://github.com/mjhea0/thinkful-mentor/tree/master/python/jinja>
 
-Alternatively, you could use a static site generator approach for setting/updating/publishing a static website. There is a website just dedicated for a listing of static site generators.  
+Alternatively, you could use a static site generator approach for setting/updating/publishing a static website. [StaticGen](https://www.staticgen.com) is a website just dedicated for top open-source static site generators.  
 
 Some popular static site generator platforms are:
 
