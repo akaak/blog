@@ -8,7 +8,7 @@ title: About
 
 <blockquote>Technology is your strategic asset!</blockquote>
 
-If you are working for or with a business, stop for a moment and think about the above sentence. I am passionate about discussing and helping you undestand the role of technology and how it could help businesses.
+If you are working for or with a business, stop for a moment and think about the above sentence. I am passionate about discussing and helping you understand the role of technology and how it could help businesses.
   
 Relatively speaking, I may be a late bloomer in certain areas of education, learning, life. But, want to do some catch up now (2015).  
 
