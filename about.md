@@ -20,5 +20,5 @@ I am a lover of open source. I benefit greatly from many wonderful resources fro
 The opinions on this blog are all mine and do not in any way reflect that of my former, current or future employers.
 </small>
 
-You may find me on twitter [@akaak](https://twitter.com/akadapa). *Come and say Hi!*
+You may find me on twitter [@akadapa](https://twitter.com/akadapa). *Come and say Hi!*
 
