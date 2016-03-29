@@ -1,6 +1,7 @@
-
+---
+layout: post
 title: Your Identity 
-----
+---
 
 Your identity comes in many shapes and forms: Resume, Social Media,  LinkedIn, Online Portfolio.
 
@@ -8,3 +9,7 @@ The resume has a standard structure and people use different tools to prepare an
 
 The latest that I have seen is the json resume. The folks at <http://jsonresume.org> super simplified the whole resume structuring and formatting process. I have just tried it from their simple CLI and here is draft version of my resume: <http://registry.jsonresume.org/akaak>
 
+
+articles:
+
+- https://speckyboy.com/2015/05/14/tools-web-based-apps-for-designing-creative-resume/
