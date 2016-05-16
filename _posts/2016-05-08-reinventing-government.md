@@ -1,5 +1,5 @@
 
-Read through excerpts of a book called [Reinventing Government](http://www.amazon.com/Reinventing-Government-Entrepreneurial-Spirit-Transforming/dp/0452269423) book by Osborne and Gaebler. The following points are worth reviewing and thinking about in government as well in private sector.
+Read through excerpts of a book called [Reinventing Government](http://www.amazon.com/Reinventing-Government-Entrepreneurial-Spirit-Transforming/dp/0452269423) by Osborne and Gaebler. The following points are worth reviewing and thinking about in the government as well as in private sector.
 
 - What gets measured gets done.
 - If you don’t measure results, you can’t tell success from failure.
