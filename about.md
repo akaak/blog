@@ -4,8 +4,6 @@ title: About
 ---
 
 
-
-
 <blockquote>Technology is your strategic asset!</blockquote>
 
 If you are working for or with a business, stop for a moment and think about the above sentence. I am passionate about discussing and helping you understand the role of technology and how it could help businesses.
