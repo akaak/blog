@@ -12,7 +12,7 @@ Relatively speaking, I may be a late bloomer in certain areas of education, lear
 
 I am a lover of open source. I benefit greatly from many wonderful resources from many people/organizations in the open source realm. In this blog, I want to share my experiences on what I observe, try, and learn. My education, background and experience shape my thinking about technology, business, processes, open source and tools. 
 
-*Tools*  `macbook, vim, git, python, sql/nosql `
+*Tools*  `macbook, vim, git, python, sql/nosql, cli `
 
 <small>
 The opinions on this blog are all mine and do not in any way reflect that of my former, current or future employers.
@@ -20,3 +20,4 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 
 You may find me on twitter [@akadapa](https://twitter.com/akadapa). *Come and say Hi!*
 
+On LinkedIn: <https://www.linkedin.com/in/akadapa/>
