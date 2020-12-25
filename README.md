@@ -1,6 +1,6 @@
 # Blog
 
-Kiran (AK) Adapa Blog.
+Kiran (AK) Adapa Blog <http://akaak.github.io/blog/>.
 
 - <https://github.com/akaak>
 - <https://twitter.com/akadapa>
@@ -8,4 +8,3 @@ Kiran (AK) Adapa Blog.
 Engineering, development, and process related posts.
 
 @akaak
-
