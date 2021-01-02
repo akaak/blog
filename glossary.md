@@ -5,6 +5,8 @@ title: Glossary
 
 There are good number of resources on the Internet that give provide a glossary for the Computer Science/Programming related terms:
 
+- [Mozilla's Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+
 - [Python glossary](https://docs.python.org/2/glossary.html)
 
 - [django glossary](https://docs.djangoproject.com/en/1.9/glossary/)
@@ -15,10 +17,3 @@ There are good number of resources on the Internet that give provide a glossary 
 
 - data.gov glossary of [terms](https://www.data.gov/glossary)
 
-
-Some of the terms that I have compiled here for your review:
-
-### Glossary of Terms
-
-
-{% include glossary.yml %}
