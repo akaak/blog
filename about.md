@@ -4,6 +4,12 @@ title: About
 ---
 
 
+
+![black and white windmill - AK Blog Credits](/assets/img/bike-mountain.jpg)
+
+_Photo by <a href="https://stocksnap.io/author/480">Dave Meier</a> from <a href="https://stocksnap.io">StockSnap</a>_
+
+
 <blockquote>Technology is your strategic asset!</blockquote>
 
 If you are working for or with a business, stop for a moment and think about the above sentence. I am passionate about discussing and helping you understand the role of technology and how it could help businesses.
@@ -19,6 +25,7 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 </small>
 
 You may contact me via...
+- Email: [ak@dskdata.com](mailto:ak@dskdata.com) 
 - Twitter: [@akadapa](https://twitter.com/akadapa)
 - Keybase: [@akaak](https://keybase.io/akaak)
 - LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
