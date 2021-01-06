@@ -25,8 +25,6 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 </small>
 
 You may contact me via...
-- Email: [ak@dskdata.com](mailto:ak@dskdata.com) 
-- Twitter: [@akadapa](https://twitter.com/akadapa)
 - Keybase: [@akaak](https://keybase.io/akaak)
 - LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
 
