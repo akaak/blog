@@ -26,7 +26,7 @@ Quoting [@QuinnyPig](https://twitter.com/QuinnyPig) (emphasis added)...
 This making it "elsewhere" whether another cloud or on-premise servers requires how the original technical architecture and solution(s) are built.
 
 
-It is not a binary choice and requires cross-teams organization, design, planning and execution. Rebuilding or migrating/tranisition to elsewhere requires highly technical skillsets. As @QuinnyPig mentioned the Web and the mobile Apps use different sets of applications stack, programming languages, tools and services.
+It is not a binary choice and requires cross-teams organization, design, planning and execution. Rebuilding or migrating/transition to elsewhere requires highly technical skillsets. As @QuinnyPig mentioned the Web and the mobile Apps use different sets of applications stack, programming languages, tools and services.
 
 As much as one wants to think and hope that solutions are built in a modular way that may not always be the case. As Products and solutions are built, teams take up or accrue a lot of Technical Debt as they focus on delivering on Products. This focus is rightfully needed if you are moving fast as the teams balance on delivering value vs building an ideal/right solution. Majority of the time the technical teams are trying to do catch up in thinking about strategic direction.
 
