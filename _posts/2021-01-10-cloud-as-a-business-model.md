@@ -59,7 +59,7 @@ At the heart of all these services is the DATA. How you operate on this data and
 At this point, every Cloud Service Provider (CSP) are not just providing simple hosting services. They are building a lot of PaaS (Platform-as-a-Service) offerings and this Platform is everyone's MOAT!
 
 
-Cloud Computing and leveraging your technology in Cloud has become and becoming everyone's busines and operations model. There is no denying that this is going to change. As organizations are building their gigtal capabilities in and around Cloud, it is important to think about and reviewing their efforts to match their operational and strategic direction from time to time. 
+Cloud Computing and leveraging your technology in Cloud has become and becoming everyone's busines and operations model. There is no denying that this is going to change. As organizations are building their digtal capabilities in and around Cloud, it is important to think about and reviewing their efforts to match their operational and strategic direction from time to time. 
 
 If you have any questions or would like more information on how your business could benefit from the Cloud then you may [contact me](/about/). If you are thinking about starting your Digital Transofrmation journey or actively involved in that process then I would like to learn more.
 
