@@ -3,7 +3,7 @@ layout: post
 title: Cloud is part of everyone's business model
 ---
 
-As of this writing (Jan 10, 2021), there are a lot of developments happening post-general elections in the USA. I am in no way positioned to speak on the recent developments and how the social media giants like Twitter and Facebook are reacting. But, one thing that I have been looking at is the massive scale and virality that is built into some of the Products that are coming up as an alternative to Twitter and Facebook.
+As of this writing (Jan 10, 2021), there are a lot of developments happening post-general elections in the USA. I am in no way positioned to speak on the recent developments and how the social media giants like Twitter and Facebook are reacting. But, one thing that I have been looking at is the massive scale and virality that is built into some of the Products that are coming up as alternatives to Twitter and Facebook.
 
 On the technology side, every business/app needs a place to host and run their services. The most recent announcement by the [AWS Cloud](https://aws.amazon.com/) on taking Parler offline prompted a great Twitter thread by [the duckbill groups's](https://www.duckbillgroup.com/) Chief Cloud Economist [Corey Quinn](https://twitter.com/QuinnyPig). 
 
@@ -11,7 +11,7 @@ On the technology side, every business/app needs a place to host and run their s
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So there&#39;s a lot of confusion about what Parler being kicked off of Amazon Web Services (<a href="https://twitter.com/awscloud?ref_src=twsrc%5Etfw">@awscloud</a>) means. Let me do a quick thread to explain it to folks who aren&#39;t deep in the technical weeds...</p>&mdash; Corey Quinn (@QuinnyPig) <a href="https://twitter.com/QuinnyPig/status/1348116976019771392?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-As always, @QuinnyPig in his twitter fashion illustrates mechanics and some technical details on what it means when AWS Cloud says it is will boot Parler off of AWS.
+As always, @QuinnyPig in his twitter fashion illustrates mechanics and some technical details on what it means when AWS Cloud says it will boot Parler off of AWS.
 
 
 Two points are most important for any business that builds on Cloud: 
@@ -61,6 +61,6 @@ At this point, every Cloud Service Provider (CSP) are not just providing simple 
 
 Cloud Computing and leveraging your technology in Cloud has become and becoming everyone's busines and operations model. There is no denying that this is NOT going to change. As organizations are building their digtal capabilities in and around Cloud, it is important to think about and reviewing their efforts to match their operational and strategic direction from time to time. 
 
-If you have any questions or would like more information on how your business could benefit from the Cloud then you may [contact me](/about/). If you are thinking about starting your Digital Transofrmation journey or actively involved in that process then I would like to learn more.
+If you have any questions or would like more information on how your business could benefit from the Cloud then you may [contact me](about/). If you are thinking about starting your Digital Transofrmation journey or actively involved in that process then I would like to learn more.
 
 
