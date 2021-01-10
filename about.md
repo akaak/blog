@@ -5,7 +5,7 @@ title: About
 
 
 
-![black and white windmill - AK Blog Credits](/assets/img/bike-mountain.jpg)
+![black and white windmill - AK Blog Credits](../assets/img/bike-mountain.jpg)
 
 _Photo by <a href="https://stocksnap.io/author/480">Dave Meier</a> from <a href="https://stocksnap.io">StockSnap</a>_
 

@@ -4,7 +4,7 @@ title: Site Credits
 ---
 
 
-![black and white windmill - AK Blog Credits](/assets/img/bnw-windmill.jpg)
+![black and white windmill - AK Blog Credits](../assets/img/bnw-windmill.jpg)
 
 _Photo by <a href="https://stocksnap.io/author/ianlivesey">Ian Livesey</a> from <a href="https://stocksnap.io">StockSnap</a>_
 
