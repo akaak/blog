@@ -56,11 +56,11 @@ Quoting part of @QuinnyPig
 At the heart of all these services is the DATA. How you operate on this data and use the data for your users and products. It is not difficult to get the data out and load into another place. But, how you get that Data out and how you build up new services to use that Data becomes gnarly at best.  Not let your services get affected when you do these activities is super challenging for the facts that was mentioned above on how AWS built/building its moat.
 
 
-At this point, every Cloud Service Provider (CSP) are not just providing simple hosting services. They are building a lot of PaaS (Platform-as-a-Service) offerings and this Platform is everyone's MOAT!
+At this point, every Cloud Service Provider (CSP) is not just only providing simple hosting services. They are building a lot of PaaS (Platform-as-a-Service) offerings to help their customers. Businesses are leveraging theses PaaS offerings to further enhance their products/services or increase speed to market. This Platform, in turn, is becoming each of these CSP's MOAT and makes it difficult for others to penetrate.
 
 
 Cloud Computing and leveraging your technology in Cloud has become and becoming everyone's busines and operations model. There is no denying that this is NOT going to change. As organizations are building their digtal capabilities in and around Cloud, it is important to think about and reviewing their efforts to match their operational and strategic direction from time to time. 
 
-If you have any questions or would like more information on how your business could benefit from the Cloud then you may [contact me](about/). If you are thinking about starting your Digital Transofrmation journey or actively involved in that process then I would like to learn more.
+If you have any questions or would like more information on how your business could benefit from the Cloud then you may [contact me](about/). If you are thinking about starting your Digital Transofrmation journey or actively involved in that process, then I would like to learn more.
 
 
