@@ -3,9 +3,9 @@ layout: page
 title: Photos 
 ---
 
-One of my hobbies is to take pictures and post them on Instgram. Look at my my Instagram feed [@akadapa](https://www.instagram.com/akadapa/) for more pictures. You would usually find pictures of the landscape, city/urban structures, and nature that I find through my travels/commute.
+One of my hobbies is to take pictures. I usually post them on Instagram or Flickr. Look at my my Instagram feed [@akadapa](https://www.instagram.com/akadapa/) for more pictures. You would usually find pictures of the landscape, city/urban structures, and nature that I find through my travels.
  
-Here, I am posting some of my recent posts/pictures. 
+On this blog, I am posting some of my recent posts/pictures. 
 
 You may also check out my [flickr feed](https://www.flickr.com/people/75725724@N05/) for more _professional_ looking photo shots!
 
