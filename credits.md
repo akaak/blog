@@ -26,10 +26,15 @@ _Photo by <a href="https://stocksnap.io/author/ianlivesey">Ian Livesey</a> from 
 
 - [@joshualande](http://twitter.com/joshualande) blog article on using [Jekyll, Github Pages, and Poole](http://joshualande.com/jekyll-github-pages-poole) provided all the required details about setting up blog "pages", the blog posts archive page, adding disqus comments etc. **Highly recommend** this article.
 
-- TODO: Fulltext Search on Jekyll site <http://dreamand.me/web/fulltext-search-at-jekyll-site/>
+### Todo: 
 
-- TODO: Add tags and categories for posts; list posts under archives by tags/categories.
+- Fulltext Search on Jekyll site <http://dreamand.me/web/fulltext-search-at-jekyll-site/>
+
+- Add tags and categories for posts; list posts under archives by tags/categories.
 Is this what I should look at? <https://github.com/jekyll/jekyll-archives>
+
+- Image gallery. Try a *without plugin* approach of adding an [image gallery](https://jekyllcodex.org/without-plugin/image-gallery/). While there, try other features.
+
 
 #### Inspiration
 
@@ -44,5 +49,9 @@ There are some gotchas that one has to be aware of when setting up the site. I h
 
 If you want to serve 'drafts' on localhost, then you may try the following:
 	
-  `$ jekyll serve --drafts server --baseurl ''`
+  `$ jekyll serve --drafts server --baseurl '
+
+#### Resources
+
+Photographs: For royalty free photographs, you may use [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com), [StockSnap](https://stocksnap.io) and others.
 	
