@@ -54,4 +54,6 @@ If you want to serve 'drafts' on localhost, then you may try the following:
 #### Resources
 
 Photographs: For royalty free photographs, you may use [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com), [StockSnap](https://stocksnap.io) and others.
-	
+
+
+Last update: Aug 2024	
