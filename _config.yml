@@ -13,8 +13,14 @@ url:                 http://akaak.github.io/blog/
 baseurl:             https://akaak.github.io/blog
 
 # added for Jekyll v3.0
-gems: [jekyll-paginate]
-paginate_path: "page:num"
+#gems: [jekyll-paginate]
+#paginate_path: "page:num"
+
+plugins:
+  - jekyll-paginate
+
+paginate: 5  # Number of posts per page
+# paginate_path: "/page:num/"  # URL structure for paginated pages
 
 # Assets
 #

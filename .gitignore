@@ -5,6 +5,8 @@ _drafts
 .ruby-version
 .sass-cache
 
+README-AK.md
+
 # Numerous always-ignore extensions
 *.diff
 *.err
