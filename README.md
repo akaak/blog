@@ -12,3 +12,6 @@ Blog's static site built using [Jekyll](https://jekyllrb.com/) and Github [Pages
 ### Run on Local
 
 `$ jekyll serve --baseurl ''`
+
+
+Trigger build...
