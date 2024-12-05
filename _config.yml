@@ -45,7 +45,7 @@ github:
 
 # List of pages to include in the header.
 pages_list:       
-  About: '/about/'
-  Archive: '/archive/'
-  Photos: '/photos/'
+  About: '/about'
+  Archive: '/archive'
+  Photos: '/photos'
   #Feed: '/atom.xml'
