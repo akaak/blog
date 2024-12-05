@@ -12,8 +12,8 @@ permalink: /:year/:month/:day/:title:output_ext
 title:               akaAK
 tagline:             Kiran (AK) Adapa's engineering, tech, findings blog
 paginate:            1
-url:                 http://akaak.github.io/
-baseurl:             /blog
+url:                 "http://akaak.github.io"
+baseurl:             "/blog"
 
 # added for Jekyll v3.0
 #gems: [jekyll-paginate]
