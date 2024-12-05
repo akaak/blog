@@ -5,6 +5,11 @@ title: Glossary
 
 There are good number of resources on the Internet that give provide a glossary for the Computer Science/Programming related terms:
 
+- [AI Terms Glossary](https://www.expert.ai/glossary-of-ai-terms/)
+
+- [Cloud Computing Terms](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary)
+
+
 - [Mozilla's Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 - [Python glossary](https://docs.python.org/2/glossary.html)

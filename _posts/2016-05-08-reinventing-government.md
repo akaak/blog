@@ -1,3 +1,8 @@
+---
+layout: post
+title: Reinventing Government 
+categories: [management]
+---
 
 Read through excerpts of a book called [Reinventing Government](http://www.amazon.com/Reinventing-Government-Entrepreneurial-Spirit-Transforming/dp/0452269423) by Osborne and Gaebler. The following points are worth reviewing and thinking about in the government as well as in private sector.
 

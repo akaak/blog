@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Heroku Way
+categories: [technology]
 ---
 
 Going the Heroku way for developers is a very easy and simple process to adopt. It is the right approach to take if you are building applications and do not want to be tied to a platform/infrastructure specific services/hooks. Heroku in its [architecting apps for Heroku](https://devcenter.heroku.com/articles/architecting-apps) article lays out these points. One point that stands out for me is that __"it is application, not infastructure, focused"__.

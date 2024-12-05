@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cloud is part of everyone's business model
+categories: [business, technology]
 ---
 
 As of this writing (Jan 10, 2021), there are a lot of developments happening post-general elections in the USA. I am in no way positioned to speak on the recent developments and how the social media giants like Twitter and Facebook are reacting. But, one thing that I have been looking at is the massive scale and virality that is built into some of the Products that are coming up as alternatives to Twitter and Facebook.

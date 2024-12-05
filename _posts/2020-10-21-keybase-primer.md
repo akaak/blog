@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Keybase - Crypto for everyone
+categories: [security]
 ---
 
 

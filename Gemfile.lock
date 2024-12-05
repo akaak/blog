@@ -6,8 +6,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.4.0)
-      rexml
+    kramdown (2.5.1)
+      rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     listen (3.9.0)
@@ -17,7 +17,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.3.9)
-    webrick (1.9.0)
+    webrick (1.9.1)
 
 PLATFORMS
   arm64-darwin-23

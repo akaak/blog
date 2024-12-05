@@ -1,7 +1,10 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+#permalink:           pretty
+
+permalink: /:year/:month/:day/:title:output_ext
+
 # removed for Jekyll v3.0
 #relative_permalinks: true
 

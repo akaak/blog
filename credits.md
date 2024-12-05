@@ -30,8 +30,6 @@ _Photo by <a href="https://stocksnap.io/author/ianlivesey">Ian Livesey</a> from 
 
 - Fulltext Search on Jekyll site <http://dreamand.me/web/fulltext-search-at-jekyll-site/>
 
-- Add tags and categories for posts; list posts under archives by tags/categories.
-Is this what I should look at? <https://github.com/jekyll/jekyll-archives>
 
 - Image gallery. Try a *without plugin* approach of adding an [image gallery](https://jekyllcodex.org/without-plugin/image-gallery/). While there, try other features.
 
@@ -49,7 +47,7 @@ There are some gotchas that one has to be aware of when setting up the site. I h
 
 If you want to serve 'drafts' on localhost, then you may try the following:
 	
-  `$ jekyll serve --drafts server --baseurl '
+  `$ jekyll serve --watch --drafts --baseurl ''`
 
 #### Resources
 

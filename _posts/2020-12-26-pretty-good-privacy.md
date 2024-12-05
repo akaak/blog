@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PGP - Pretty Good Privacy
+categories: [security, technology]
 ---
 
 

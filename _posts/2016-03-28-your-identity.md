@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Identity 
+categories: [communication]
 ---
 
 Your identity comes in many shapes and forms: Resume, Social Media,  LinkedIn, Online Portfolio.
