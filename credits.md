@@ -24,8 +24,6 @@ _Photo by <a href="https://stocksnap.io/author/ianlivesey">Ian Livesey</a> from 
 	- Github Pages [documentation](https://help.github.com/articles/using-jekyll-with-pages/) with Jekyll.
 
 
-- [@joshualande](http://twitter.com/joshualande) blog article on using [Jekyll, Github Pages, and Poole](http://joshualande.com/jekyll-github-pages-poole) provided all the required details about setting up blog "pages", the blog posts archive page, adding disqus comments etc. **Highly recommend** this article.
-
 ### Todo: 
 
 - Fulltext Search on Jekyll site <http://dreamand.me/web/fulltext-search-at-jekyll-site/>

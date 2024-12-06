@@ -24,7 +24,9 @@ I am a lover of open source. I benefit greatly from many wonderful open source r
 The opinions on this blog are all mine and do not in any way reflect that of my former, current or future employers.
 </small>
 
-You may contact me via...
+*You may contact me via...*
+
+- Twitter/X: [@akadapa](https://x.com/akadapa)
 - Keybase: [@akaak](https://keybase.io/akaak)
 - LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
 
