@@ -30,13 +30,16 @@ Plain language isn't just about simplifying your writing; it's about making your
 Some concrete examples of how plain language can imrpove communication[1]:
 
 1. Non-plain: "No program approval may be implied in the absence of the Chair's approval."
-   Plain: "You must have the Chair's approval for your program."
+
+   `Plain:` "You must have the Chair's approval for your program."
 
 2. Non-plain: "Applicants may not submit samples, except on Tuesdays."
-   Plain: "Applicants may submit samples on Tuesdays."
+   
+   `Plain:` "Applicants may submit samples on Tuesdays."
 
 3. Non-plain: "I regret to inform you that one coat of Chem-Treat is insufficient."
-   Plain: "For durable results, use two coats of Chem-Treat."
+   
+   `Plain:` "For durable results, use two coats of Chem-Treat."
 
 ## Benefits of Plain Language
 
@@ -52,14 +55,14 @@ There are some great tools that you can use (e.g.: https://hemingwayapp.com/) to
 
 References:
 
-[1] <https://dap.berkeley.edu/learn/concepts/what-plain-language>
+[1] [What is plain language?](https://dap.berkeley.edu/learn/concepts/what-plain-language)
 
 [2] <https://www.plainlanguage.gov/>
 
-[3] <https://centerforplainlanguage.org/learning-training/five-steps-plain-language/>
+[3] [Five steps to plain language](https://centerforplainlanguage.org/learning-training/five-steps-plain-language/)
 
-[4] <https://winningthebusiness.com/6-reasons-to-use-plain-language-in-your-writing/>
+[4] [6 Reasons to Use Plain Language in Your Writing](https://winningthebusiness.com/6-reasons-to-use-plain-language-in-your-writing/)
 
 [5] <https://hemingwayapp.com/>
 
-[6] <https://www.officetooltips.com/word/tips/viewing_document_and_readability_statistics.html>
+[6] [Microsoft: Viewing document and readability statistics](https://www.officetooltips.com/word/tips/viewing_document_and_readability_statistics.html)
