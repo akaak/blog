@@ -38,7 +38,7 @@ Overemphasizing Persona Details. While personas are essential for understanding 
 
 Ignoring Negative or Non-User Feedback. Failing to consider feedback from users who don't fit the target persona can result in missed opportunities for improvement[3]. This anti-pattern leads to overlooking potential issues that may not be apparent to the target audience. Not able to expand the product's appeal to a broader user base.
 
-NN/g article[3] has a Summary that reads:
+NN/g article[4] has a Summary that reads:
 > Summary: When based on user research, personas support user-centered design throughout a project’s lifecycle by making characteristics of key user segments more salient.
 
 ## Development Process Anti-Patterns
@@ -54,7 +54,8 @@ References:
 [2] [Microservices adoption antipatterns](https://microservices.io/microservices/antipatterns/-/the/series/2019/06/18/microservices-adoption-antipatterns.html_)
 
 
-[3] https://www.npgroup.net/blog/ultimate-guide-developing-personas-custom-software-development-project/
+[3] [The Ultimate Guide to Developing Personas for a Custom Software Development Project](https://www.npgroup.net/blog/ultimate-guide-developing-personas-custom-software-development-project/)
 
+[4] [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/)
 
-[4] [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+[5] [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
