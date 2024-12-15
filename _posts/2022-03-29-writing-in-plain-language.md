@@ -4,12 +4,13 @@ title: Writing in Plain Language
 categories: [communication]
 ---
 
-
-Plain Language: The Key to Effective Business Communication
-
 In today's fast-paced business world, clear and concise communication is crucial. Plain language is a writing style. The purpose of using plain language is what we write is communicated in a clear, direct, and easy to understand way to the audience. My interaction with the use of plain language came up in the use of the same in the government. See this great resource that can be used both in the government or business communication: <https://www.plainlanguage.gov/>
 
 I have seen the use of plain language improve audience understanding, help with the search engine optimization (SEO), content marketing and overall better representation of business/organization to users.
+
+
+> Plain Language: The Key to Effective Business Communication
+
 
 ## Why Plain Language Matters
 

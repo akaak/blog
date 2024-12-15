@@ -15,3 +15,12 @@ Blog's static site built using [Jekyll](https://jekyllrb.com/) and Github [Pages
 
 
 Trigger build...
+
+**Changes/Updates**
+
+- Modified `index.html` to include only a post's excerpt rather than the whole post/content. 
+
+
+**TODO**
+
+- generate `/sitemap.xml`
