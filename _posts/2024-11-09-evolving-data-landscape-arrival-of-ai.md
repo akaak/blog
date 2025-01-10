@@ -47,7 +47,7 @@ Despite these advances, many organizations are still in the early stages of thei
 *But, right now, there is a lot of excitement and the next year (2025) is going to be a lot more exciting.*
 
 
-*References:*
+**References:**
 
 [1] [Evolution of Data Science: Growth & Innovation](https://www.dataquest.io/blog/evolution-of-data-science-growth-innovation/) *This article gives a good timeline*
 

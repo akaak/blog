@@ -27,6 +27,6 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 *You may contact me via...*
 
 - Twitter/X: [@akadapa](https://x.com/akadapa)
-- Keybase: [@akaak](https://keybase.io/akaak)
+- github: [@akaak](https://github.com/akaak)
 - LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
 

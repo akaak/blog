@@ -24,3 +24,5 @@ Trigger build...
 **TODO**
 
 - generate `/sitemap.xml`
+- add opengraph info (see this post: https://willhbr.net/2023/02/04/adding-opengraph-previews-to-jekyll/)
+
