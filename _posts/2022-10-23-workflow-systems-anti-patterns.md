@@ -47,15 +47,24 @@ The topic of **Software Development Process** requires its own set of blog artic
 
 For projects that are building workflow systems (for that matter any software applications), it is important to be aware of these anti-patterns. The project team(s) must actively work to avoid them. Quality Assurance (QA) teams and business users covering multiple user roles and personas should test and validate emd-to-end scenarios. A project may introduce these anti-patterns at various phases of the project and it is advisable to be mindful and proactively look for these anti-patterns in your projects. 
 
-References:
+**References:**
 
-[1] [Anti Pattern](https://martinfowler.com/bliki/AntiPattern.html)
+[1] Anti Pattern
+<br>
+<a href="https://martinfowler.com/bliki/AntiPattern.html">https://martinfowler.com/bliki/AntiPattern.html</a>
 
-[2] [Microservices adoption antipatterns](https://microservices.io/microservices/antipatterns/-/the/series/2019/06/18/microservices-adoption-antipatterns.html_)
+[2] Microservices adoption antipatterns
+<br>
+<a href="https://microservices.io/microservices/antipatterns/-/the/series/2019/06/18/microservices-adoption-antipatterns.html_">https://microservices.io/microservices/antipatterns/-/the/series/2019/06/18/microservices-adoption-antipatterns.html_</a>
 
+[3] The Ultimate Guide to Developing Personas for a Custom Software Development Project
+<br>
+<a href="https://www.npgroup.net/blog/ultimate-guide-developing-personas-custom-software-development-project/">https://www.npgroup.net/blog/ultimate-guide-developing-personas-custom-software-development-project/</a>
 
-[3] [The Ultimate Guide to Developing Personas for a Custom Software Development Project](https://www.npgroup.net/blog/ultimate-guide-developing-personas-custom-software-development-project/)
+[4] Personas Make Users Memorable for Product Team Members
+<br>
+<a href="https://www.nngroup.com/articles/persona/">https://www.nngroup.com/articles/persona/</a>
 
-[4] [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/)
-
-[5] [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+[5] The Joel Test: 12 Steps to Better Code
+<br>
+<a href="https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/">https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/</a>

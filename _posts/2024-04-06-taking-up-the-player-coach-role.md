@@ -37,11 +37,17 @@ By embracing the player/coach mindset and addressing its inherent challenges, le
 
 
 
-*References:*
+**References:**
 
-[1] [How to Be an Effective Player-Coach at Work](https://lsaglobal.com/blog/how-to-be-an-effective-player-coach-at-work/)
+[1] How to Be an Effective Player-Coach at Work
+<br>
+<a href="https://lsaglobal.com/blog/how-to-be-an-effective-player-coach-at-work/">https://lsaglobal.com/blog/how-to-be-an-effective-player-coach-at-work/</a>
 
-[2] [Unlocking High-Performing Product Teams: Unleashing Innovation and Success](https://productschool.com/blog/leadership/unlocking-high-performing-product-teams-unleashing-innovation-and-success)
+[2] Unlocking High-Performing Product Teams: Unleashing Innovation and Success
+<br>
+<a href="https://productschool.com/blog/leadership/unlocking-high-performing-product-teams-unleashing-innovation-and-success">https://productschool.com/blog/leadership/unlocking-high-performing-product-teams-unleashing-innovation-and-success</a>
 
-[3] [The Tipping Point: When “Player-Coach” Management No Longer Works](https://jenottovegio.medium.com/the-tipping-point-when-player-coach-management-no-longer-works-bd10d338be0f)
+[3] The Tipping Point: When "Player-Coach" Management No Longer Works
+<br>
+<a href="https://jenottovegio.medium.com/the-tipping-point-when-player-coach-management-no-longer-works-bd10d338be0f">https://jenottovegio.medium.com/the-tipping-point-when-player-coach-management-no-longer-works-bd10d338be0f</a>
 

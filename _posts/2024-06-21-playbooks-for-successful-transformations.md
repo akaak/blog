@@ -41,17 +41,28 @@ For operations leaders venturing into digital transformation, embracing playbook
 
 If your teams are not already using playbooks, then ask them to build and use them to achieving operational excellence and driving innovation for your organizations.
 
-*References:*
+**References:**
 
-[1] [Digital Transformation Playbook: Four Elements to a Successful Strategy](https://info.microsoft.com/ww-landing-Four-Elements-to-a-Successful-Strategy-FIN.html?lcid=EN-GB)
+[1] Digital Transformation Playbook: Four Elements to a Successful Strategy
+<br>
+<a href="https://info.microsoft.com/ww-landing-Four-Elements-to-a-Successful-Strategy-FIN.html?lcid=EN-GB">https://info.microsoft.com/ww-landing-Four-Elements-to-a-Successful-Strategy-FIN.html?lcid=EN-GB</a>
 
-[2] [Digital Services Playbook](https://playbook.usds.gov/)
+[2] Digital Services Playbook
+<br>
+<a href="https://playbook.usds.gov/">https://playbook.usds.gov/</a>
 
-[3] [The benefits of building a business playbook for your company](https://devdocs.work/post/the-benefits-of-building-a-business-playbook-for-your-company)
+[3] The benefits of building a business playbook for your company
+<br>
+<a href="https://devdocs.work/post/the-benefits-of-building-a-business-playbook-for-your-company">https://devdocs.work/post/the-benefits-of-building-a-business-playbook-for-your-company</a>
 
-[4] [Digital Transformation Playbook](https://dir.texas.gov/strategic-digital-services/digital-transformation-playbook)
+[4] Digital Transformation Playbook
+<br>
+<a href="https://dir.texas.gov/strategic-digital-services/digital-transformation-playbook">https://dir.texas.gov/strategic-digital-services/digital-transformation-playbook</a>
 
-[5] [A Course: Digital Transformation Playbook:
-Leverage Technology to Innovate Your Business](https://em-execed.stanford.edu/digital-transformation-playbook) (*PS: I did not take this course*)
+[5] A Course: Digital Transformation Playbook: Leverage Technology to Innovate Your Business -- *(PS: I did not take this course)*
+<br>
+<a href="https://em-execed.stanford.edu/digital-transformation-playbook">https://em-execed.stanford.edu/digital-transformation-playbook</a>
 
-[6] [Accelerate Your Data and AI Transformation Guide](https://www.databricks.com/resources/ebook/accelerate-your-data-and-ai-transformation)
+[6] Accelerate Your Data and AI Transformation Guide
+<br>
+<a href="https://www.databricks.com/resources/ebook/accelerate-your-data-and-ai-transformation">https://www.databricks.com/resources/ebook/accelerate-your-data-and-ai-transformation</a>

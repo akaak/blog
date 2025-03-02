@@ -49,23 +49,45 @@ Despite these advances, many organizations are still in the early stages of thei
 
 **References:**
 
-[1] [Evolution of Data Science: Growth & Innovation](https://www.dataquest.io/blog/evolution-of-data-science-growth-innovation/) *This article gives a good timeline*
 
-[2] [Harnessing the Power of AI and Machine Learning in Modern Data Architectures](https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-modern-data-nicholas-vscbc/)
+[1] Evolution of Data Science: Growth & Innovation - *This article gives a good timeline*
+<br>
+<a href="https://www.dataquest.io/blog/evolution-of-data-science-growth-innovation/">https://www.dataquest.io/blog/evolution-of-data-science-growth-innovation/</a>
 
-[3] [AI-powered decision making for the bank of the future](https://www.mckinsey.com/industries/financial-services/our-insights/ai-powered-decision-making-for-the-bank-of-the-future)
+[2] Harnessing the Power of AI and Machine Learning in Modern Data Architectures
+<br>
+<a href="https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-modern-data-nicholas-vscbc/">https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-modern-data-nicholas-vscbc/</a>
 
-[4] [How Big Data and AI Work Together - A Deeper Dive](https://binariks.com/blog/how-big-data-and-ai-work-together/)
+[3] AI-powered decision making for the bank of the future
+<br>
+<a href="https://www.mckinsey.com/industries/financial-services/our-insights/ai-powered-decision-making-for-the-bank-of-the-future">https://www.mckinsey.com/industries/financial-services/our-insights/ai-powered-decision-making-for-the-bank-of-the-future</a>
 
-[5] [Data and AI Trends Report 2024](https://cloud.google.com/resources/data-ai-trends-report-2024?hl=en)
+[4] How Big Data and AI Work Together - A Deeper Dive
+<br>
+<a href="https://binariks.com/blog/how-big-data-and-ai-work-together/">https://binariks.com/blog/how-big-data-and-ai-work-together/</a>
 
-[6] [Evolving the data analytics operating model](https://www2.deloitte.com/us/en/pages/consulting/articles/data-analytics-operating-model.html)
+[5] Data and AI Trends Report 2024
+<br>
+<a href="https://cloud.google.com/resources/data-ai-trends-report-2024?hl=en">https://cloud.google.com/resources/data-ai-trends-report-2024?hl=en</a>
+
+[6] Evolving the data analytics operating model
+<br>
+<a href="https://www2.deloitte.com/us/en/pages/consulting/articles/data-analytics-operating-model.html">https://www2.deloitte.com/us/en/pages/consulting/articles/data-analytics-operating-model.html</a>
+
+[7] How Big Data and AI Work Together - A Deeper Dive
+<br>
+<a href="https://binariks.com/blog/how-big-data-and-ai-work-together/">https://binariks.com/blog/how-big-data-and-ai-work-together/</a>
+
+[8] Generative AI And Big Data Analytics: Transforming Decision Making For Leaders
+<br>
+<a href="https://www.forbes.com/councils/forbestechcouncil/2024/08/01/generative-ai-and-big-data-analytics-transforming-decision-making-for-leaders/">https://www.forbes.com/councils/forbestechcouncil/2024/08/01/generative-ai-and-big-data-analytics-transforming-decision-making-for-leaders/</a>
+
+[9] Navigating the Future: Emerging Trends in AI and Data Analytics
+<br>
+<a href="https://www.rtinsights.com/navigating-the-future-emerging-trends-in-ai-and-data-analytics/">https://www.rtinsights.com/navigating-the-future-emerging-trends-in-ai-and-data-analytics/</a>
+
+[10] How do big data and AI work together?
+<br>
+<a href="https://www.techtarget.com/searchenterpriseai/tip/How-do-big-data-and-AI-work-together">https://www.techtarget.com/searchenterpriseai/tip/How-do-big-data-and-AI-work-together</a>
 
 
-[7] [How Big Data and AI Work Together - A Deeper Dive](https://binariks.com/blog/how-big-data-and-ai-work-together/)
-
-[8] [Generative AI And Big Data Analytics: Transforming Decision Making For Leaders](https://www.forbes.com/councils/forbestechcouncil/2024/08/01/generative-ai-and-big-data-analytics-transforming-decision-making-for-leaders/)
-
-[9] [Navigating the Future: Emerging Trends in AI and Data Analytics](https://www.rtinsights.com/navigating-the-future-emerging-trends-in-ai-and-data-analytics/)
-
-[10] [How do big data and AI work together?](https://www.techtarget.com/searchenterpriseai/tip/How-do-big-data-and-AI-work-together)

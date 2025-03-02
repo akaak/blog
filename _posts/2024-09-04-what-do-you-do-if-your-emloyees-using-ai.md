@@ -12,7 +12,7 @@ Like cloud services, AI tools offer efficiency and innovation, but also raise co
 
 Companies should support employee use while providing guidance and training. This balanced strategy can serve as a model for managing AI adoption in organizations. Instead of banning AI tools outright, companies should embrace their potential while implementing safeguards. 
 
-However, comapanies should be cognizant of risks of employees using AI in their job. Some actions by employees with certain roles may pose more greater risk than the othres. It depends on what kind of data the employee is using as prompts to the chatGPT kind of AI services. Some of these riks include: **Data leakage; Privacy breaches; Intellectual property theft; Security vulnerabilities.**
+However, companies should be cognizant of risks of employees using AI in their job. Some actions by employees with certain roles may pose more greater risk than the others. It depends on what kind of data the employee is using as prompts to the chatGPT kind of AI services. Some of these riks include: **Data leakage; Privacy breaches; Intellectual property theft; Security vulnerabilities.**
 
 
 Organizations need to start sharing some best practices for managing AI use. Some of these best practices could be:
