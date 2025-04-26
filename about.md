@@ -26,7 +26,8 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 
 *You may contact me via...*
 
+- LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
+- Bluesky: [@akadapa.bsky.social](https://bsky.app/profile/akadapa.bsky.social)
 - Twitter/X: [@akadapa](https://x.com/akadapa)
 - github: [@akaak](https://github.com/akaak)
-- LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
 
