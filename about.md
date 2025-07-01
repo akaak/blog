@@ -12,13 +12,16 @@ _Photo by <a href="https://stocksnap.io/author/480">Dave Meier</a> from <a href=
 
 <blockquote>Technology is your strategic asset!</blockquote>
 
-If you are working for or with a business, stop for a moment and think about the above sentence. I am passionate about discussing and helping you understand the role of technology and how it could help businesses.
-  
-Relatively speaking, I may be a late bloomer in certain areas of education, learning, and life. But, want to do some catch up now.  
+I am a technologist at heart, passionate about leveraging technology to drive business growth, innovation, and operational excellence. Over the years, I’ve worn a lot of hats — director of technology, engineering manager, solutions architect, project manager, and product person. This mix of roles has given me a front-row seat to how digital transformation, cloud, AI, and analytics can really make a difference. 
 
-I am a lover of open source. I benefit greatly from many wonderful open source resources from many people/organizations. In this blog, I want to share my experiences on what I observe, try, and learn. My education, background and experience shape my thinking about technology, business, processes, open source and tools. 
+I thrive on continuous learning and open source collaboration, and I enjoy sharing practical insights and experiences from my work. Through this blog, I offer perspectives on technology, business strategy, and the evolving tools that shape our industry. My goal is to help others make sense of the tech world and find practical ways to put it to work.
 
-*Tools*  `macbook, vim, git, cli, python, nodejs, sql`
+Whether you are seeking to innovate, streamline processes, or make technology a core driver of your business, I invite you to join the conversation and explore how we can achieve meaningful results together.
+
+**Tools:**
+
+`MacBook, VS Code, Vim, CLI, Python, Node.js, SQL, Git, Cursor, AWS, Azure, GCP, Notion, ChatGPT, Tableau`
+
 
 <small>
 The opinions on this blog are all mine and do not in any way reflect that of my former, current or future employers.
