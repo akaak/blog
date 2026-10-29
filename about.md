@@ -20,7 +20,7 @@ Whether you are seeking to innovate, streamline processes, or make technology a 
 
 **Tools:**
 
-`MacBook, VS Code, Vim, CLI, Python, Node.js, SQL, Git, Cursor, AWS, Azure, GCP, Notion, ChatGPT, Tableau`
+`MacBook, Vim, CLI, Python, Node.js, SQL, Git, AI, Cloud`
 
 
 <small>
@@ -29,6 +29,7 @@ The opinions on this blog are all mine and do not in any way reflect that of my 
 
 *You may contact me via...*
 
+- Blog: [akaak.github.io/blog](https://akaak.github.io/blog/)
 - LinkedIn: [akadapa](https://www.linkedin.com/in/akadapa/)
 - Bluesky: [@akadapa.bsky.social](https://bsky.app/profile/akadapa.bsky.social)
 - Twitter/X: [@akadapa](https://x.com/akadapa)

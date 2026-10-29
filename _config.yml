@@ -25,6 +25,12 @@ plugins:
 paginate: 5  # Number of posts per page
 # paginate_path: "/page:num/"  # URL structure for paginated pages
 
+# Micro-blog collection (short posts, separate from _posts)
+collections:
+  micro:
+    output: true
+    permalink: /micro/:year/:month/:day/:title:output_ext
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -44,8 +50,9 @@ github:
   repo:              https://github.com/akaak
 
 # List of pages to include in the header.
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
+  Micro: '/micro'
   Photos: '/photos'
   #Feed: '/atom.xml'

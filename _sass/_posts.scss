@@ -28,6 +28,39 @@
 }
 
 
+// Photo list
+.photo-list {
+  margin-top: 2rem;
+}
+
+.photo-item {
+  margin-bottom: 2.5rem;
+
+  img {
+    margin-bottom: .5rem;
+  }
+}
+
+.photo-caption {
+  margin-top: 0;
+  color: #9a9a9a;
+}
+
+// Micro month jump nav
+.micro-month-nav {
+  margin-bottom: 2rem;
+  font-size: 80%;
+  color: #9a9a9a;
+
+  a {
+    color: #9a9a9a;
+
+    &:hover {
+      color: #268bd2;
+    }
+  }
+}
+
 // Related posts
 .related {
   padding-top: 2rem;
