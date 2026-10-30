@@ -12,7 +12,7 @@ _Photo by <a href="https://stocksnap.io/author/480">Dave Meier</a> from <a href=
 
 <blockquote>Technology is your strategic asset!</blockquote>
 
-I am a technologist at heart, passionate about leveraging technology to drive business growth, innovation, and operational excellence. Over the years, I’ve worn a lot of hats — director of technology, engineering manager, solutions architect, project manager, and product person. This mix of roles has given me a front-row seat to how digital transformation, cloud, AI, and analytics can really make a difference. 
+I am a technologist at heart, passionate about leveraging technology to drive business growth, innovation, and operational excellence. Over the years, I’ve worn a lot of hats — director of technology, engineering manager, solutions architect, project manager, and product person. This mix of roles has put me in the room, and at the keyboard, turning digital transformation, cloud, AI, and analytics into real outcomes: safer vehicles, streamlined operations, and new revenue streams. 
 
 I thrive on continuous learning and open source collaboration, and I enjoy sharing practical insights and experiences from my work. Through this blog, I offer perspectives on technology, business strategy, and the evolving tools that shape our industry. My goal is to help others make sense of the tech world and find practical ways to put it to work.
 

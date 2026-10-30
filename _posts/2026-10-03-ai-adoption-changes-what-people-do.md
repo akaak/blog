@@ -5,8 +5,9 @@ categories: [ai, enterprise, strategy, management]
 ---
 
 AI adoption is changing what people do at work. The change hits different companies differently. It hits different people within the same company differently. 
+With the digital transformation efforts of the pre-AI era, people have captured range of emotions employees felt in companies of various sizes. 
 
-Neeley and Leonardi in their HBR article captured this in a 2x2 matrix for digital transformation. We can adopt the same matrix for AI. Two axes: does the employee believe it matters, and does the employee believe they can learn it.
+Neeley and Leonardi captured as a 2x2 in their HBR article for digital transformation back in 2022. I have adopted the same matrix for AI. Two axes: does the employee believe it matters, and does the employee believe they can learn it.
 
 ![AI adoption matrix]({{ site.baseurl }}/assets/img/articles/ai-matrix.webp)
 
@@ -41,7 +42,7 @@ _The Oppressed_ need the why first. Then a low-stakes taste of the new job itsel
 
 _The Inspired_ are already reinventing. Give them the visibility, and let them teach. Sharing stories is how the others gain confidence.
 
-MIT's State of AI in Business 2025 found 95 percent of enterprise GenAI pilots fail to deliver measurable return. Not because of model quality. Because of brittle workflows and misalignment with how people actually work. In the ones that worked, the model was rarely the deciding factor. Organizational readiness was.
+MIT's State of AI in Business 2025 found 95 percent of enterprise GenAI pilots fail to deliver measurable return. Not because of model quality. Because of brittle workflows and misalignment with how people actually work. In the ones that worked, the model was rarely the deciding factor. Organizational readiness & adoption was.
 
 We are all still learning how to adopt to this new way of working. There is more to explore for companies of different sizes — small, mid-sized, and large. The path forward is not settled yet. It is yet to be determined what works and what does not.
 
