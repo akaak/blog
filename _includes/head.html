@@ -2,6 +2,16 @@
   <meta charset="UTF-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
 
+  <!-- Apply a saved theme choice before first paint, so there's no flash -->
+  <script>
+    (function () {
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || saved === 'light') {
+        document.documentElement.setAttribute('data-theme', saved);
+      }
+    })();
+  </script>
+
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

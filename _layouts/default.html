@@ -15,7 +15,8 @@
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;&nbsp;<small><a href="{{site.baseurl}}{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-      
+
+          &nbsp;&nbsp;&nbsp;&nbsp;<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">&#9680;</button>
         </h3>
         <h4 class="masthead-title">
           <small>{{ site.tagline }}</small>
@@ -39,6 +40,26 @@
         </small>
       </footer>
     </div>
+
+    <script>
+      (function () {
+        var toggle = document.getElementById('theme-toggle');
+        if (!toggle) return;
+
+        function isDark() {
+          var attr = document.documentElement.getAttribute('data-theme');
+          if (attr === 'dark') return true;
+          if (attr === 'light') return false;
+          return window.matchMedia('(prefers-color-scheme: dark)').matches;
+        }
+
+        toggle.addEventListener('click', function () {
+          var next = isDark() ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+        });
+      })();
+    </script>
 
   </body>
 </html>

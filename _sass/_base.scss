@@ -19,25 +19,36 @@
   --color-code-text:     #bf616a;
 }
 
+@mixin dark-theme-vars {
+  --color-bg:            #1b1b1b;
+  --color-bg-secondary:  #272727;
+  // Code blocks keep a light "paper" background in dark mode too —
+  // the syntax-highlighting palette in _syntax.scss assumes a light
+  // backdrop, and re-theming ~60 token colors isn't worth it here.
+  --color-code-bg:       #eee8dc;
+  --color-text:          #cfcfcf;
+  --color-text-strong:   #f0f0f0;
+  --color-heading:       #f2f2f2;
+  --color-heading-muted: #d0d0d0;
+  --color-link:          #6cb6ff;
+  --color-muted:         #9a9a9a;
+  --color-muted-2:       #a8a8a8;
+  --color-faint:         #6a6a6a;
+  --color-border:        #3a3a3a;
+  --color-border-light:  #333;
+}
+
+// Follows the OS/browser preference, unless the visitor has explicitly
+// picked a theme with the header toggle (data-theme attribute wins).
 @media (prefers-color-scheme: dark) {
-  :root {
-    --color-bg:            #1b1b1b;
-    --color-bg-secondary:  #272727;
-    // Code blocks keep a light "paper" background in dark mode too —
-    // the syntax-highlighting palette in _syntax.scss assumes a light
-    // backdrop, and re-theming ~60 token colors isn't worth it here.
-    --color-code-bg:       #eee8dc;
-    --color-text:          #cfcfcf;
-    --color-text-strong:   #f0f0f0;
-    --color-heading:       #f2f2f2;
-    --color-heading-muted: #d0d0d0;
-    --color-link:          #6cb6ff;
-    --color-muted:         #9a9a9a;
-    --color-muted-2:       #a8a8a8;
-    --color-faint:         #6a6a6a;
-    --color-border:        #3a3a3a;
-    --color-border-light:  #333;
+  :root:not([data-theme="light"]) {
+    @include dark-theme-vars;
   }
+}
+
+// Explicit toggle wins over OS preference in both directions.
+:root[data-theme="dark"] {
+  @include dark-theme-vars;
 }
 
 // Body resets
