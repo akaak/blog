@@ -1,3 +1,45 @@
+// Color tokens
+//
+// Centralized so dark mode (below) only has to redefine these once.
+
+:root {
+  --color-bg:            #fff;
+  --color-bg-secondary:  #f9f9f9;
+  --color-code-bg:       #f9f9f9;
+  --color-text:          #515151;
+  --color-text-strong:   #303030;
+  --color-heading:       #313131;
+  --color-heading-muted: #505050;
+  --color-link:          #268bd2;
+  --color-muted:         #9a9a9a;
+  --color-muted-2:       #7a7a7a;
+  --color-faint:         #c0c0c0;
+  --color-border:        #e5e5e5;
+  --color-border-light:  #eee;
+  --color-code-text:     #bf616a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:            #1b1b1b;
+    --color-bg-secondary:  #272727;
+    // Code blocks keep a light "paper" background in dark mode too —
+    // the syntax-highlighting palette in _syntax.scss assumes a light
+    // backdrop, and re-theming ~60 token colors isn't worth it here.
+    --color-code-bg:       #eee8dc;
+    --color-text:          #cfcfcf;
+    --color-text-strong:   #f0f0f0;
+    --color-heading:       #f2f2f2;
+    --color-heading-muted: #d0d0d0;
+    --color-link:          #6cb6ff;
+    --color-muted:         #9a9a9a;
+    --color-muted-2:       #a8a8a8;
+    --color-faint:         #6a6a6a;
+    --color-border:        #3a3a3a;
+    --color-border-light:  #333;
+  }
+}
+
 // Body resets
 //
 // Update the foundational and global aspects of the page.
@@ -15,7 +57,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.5;
 
@@ -25,15 +67,15 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: var(--color-text);
+  background-color: var(--color-bg);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: #268bd2;
+  color: var(--color-link);
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -58,14 +100,14 @@ table {
   margin-bottom: 1rem;
   width: 100%;
   font-size: 85%;
-  border: 1px solid #e5e5e5;
+  border: 1px solid var(--color-border);
   border-collapse: collapse;
 }
 
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid var(--color-border);
 }
 
 th {
@@ -74,5 +116,5 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: var(--color-bg-secondary);
 }

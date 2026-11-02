@@ -2,6 +2,7 @@
 layout: post
 title: Metrics, Insights, and AI&#58; A Decade of Data Transformation
 categories: [ai, data, management]
+excerpt: "A 2012 HBR line said metrics are easy, insights are hard. A decade on, LLMs have changed that equation."
 ---
 
 Metrics, Insights, and AI: A Decade of Data Transformation

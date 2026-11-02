@@ -13,7 +13,11 @@ title: Home
       </a>
     </h2>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+      <span class="post-meta-sep">&middot;</span>
+      <span class="post-reading-time">{{ post.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</span>
+    </div>
 
     {{ post.excerpt }}
     

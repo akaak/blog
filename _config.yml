@@ -21,6 +21,8 @@ baseurl:             "/blog"
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 5  # Number of posts per page
 # paginate_path: "/page:num/"  # URL structure for paginated pages
@@ -44,6 +46,12 @@ author:
   url:               https://twitter.com/akadapa
   email:             akadapa@gmail.com
 
+# jekyll-seo-tag
+twitter:
+  username: akadapa
+  card: summary
+logo: /public/apple-touch-icon-precomposed.png
+
 # Custom vars
 version:             1.3.0
 github:
@@ -53,6 +61,7 @@ github:
 pages_list:
   About: '/about'
   Archive: '/archive'
+  Categories: '/categories'
   Micro: '/micro'
   Photos: '/photos'
-  #Feed: '/atom.xml'
+  Feed: '/atom.xml'

@@ -12,7 +12,7 @@
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: var(--color-text-strong);
 }
 .page-title,
 .post-title {
@@ -24,7 +24,26 @@
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: var(--color-muted);
+}
+
+// Date + reading time on the post page itself — shares .post-date's
+// positioning, but renders the time inline so it can sit next to
+// the reading-time span on one line.
+.post-meta {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-muted);
+
+  .post-date {
+    display: inline;
+    margin: 0;
+  }
+}
+
+.post-meta-sep {
+  margin: 0 .35rem;
 }
 
 
@@ -43,20 +62,20 @@
 
 .photo-caption {
   margin-top: 0;
-  color: #9a9a9a;
+  color: var(--color-muted);
 }
 
 // Micro month jump nav
 .micro-month-nav {
   margin-bottom: 2rem;
   font-size: 80%;
-  color: #9a9a9a;
+  color: var(--color-muted);
 
   a {
-    color: #9a9a9a;
+    color: var(--color-muted);
 
     &:hover {
-      color: #268bd2;
+      color: var(--color-link);
     }
   }
 }
@@ -65,7 +84,7 @@
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid var(--color-border-light);
 }
 
 .related-posts {
@@ -79,11 +98,11 @@
   li {
     small {
       font-size: 75%;
-      color: #999;
+      color: var(--color-muted);
     }
 
     a:hover {
-      color: #268bd2;
+      color: var(--color-link);
       text-decoration: none;
 
       small {

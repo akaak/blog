@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How is this blog built?
+excerpt: "Built with Jekyll and Poole, hosted on GitHub Pages — why a text-based, git-managed static site made sense for this blog."
 ---
 
 How is this blog built?

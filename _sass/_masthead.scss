@@ -11,16 +11,17 @@
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--color-heading-muted);
 
   a {
-    color: #505050;
+    color: var(--color-heading-muted);
   }
 
   small {
     font-size: 75%;
     font-weight: 400;
-    color: #c0c0c0;
+    color: var(--color-faint);
     letter-spacing: 0;
   }
 }

@@ -1,0 +1,44 @@
+// Categories page
+//
+// Posts grouped by category, each category's post list sorted newest first.
+
+.archive-group {
+  margin-bottom: 2rem;
+}
+
+.category-head {
+  margin-bottom: .5rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.category-posts {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.category-post {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .5rem 1rem;
+  padding: .5rem 0;
+  border-bottom: 1px solid var(--color-border-light);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  a {
+    flex: 1 1 auto;
+  }
+
+  time {
+    flex-shrink: 0;
+    font-size: 85%;
+    color: var(--color-muted);
+    white-space: nowrap;
+  }
+}
