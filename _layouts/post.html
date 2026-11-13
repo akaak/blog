@@ -13,6 +13,8 @@ layout: default
   {{ content }}
 </article>
 
+{% include post-notes.html %}
+
 <div class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}

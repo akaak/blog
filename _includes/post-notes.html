@@ -1,0 +1,16 @@
+{% assign notes = site.data.notes[page.id] %}
+{% if notes %}
+<aside class="post-notes">
+  <h2 class="post-notes-title">Notes &amp; Updates</h2>
+  {% for note in notes %}
+    <div class="post-note">
+      <span class="post-note-label">{{ note.label | default: "Note" }}</span>
+      <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date_to_string: "ordinal", "US" }}</time>
+      <div class="post-note-text">{{ note.text | markdownify }}</div>
+      {% if note.link %}
+        <a href="{{ note.link }}" target="_blank" rel="noopener">{{ note.link_text | default: "Reference" }} &rarr;</a>
+      {% endif %}
+    </div>
+  {% endfor %}
+</aside>
+{% endif %}

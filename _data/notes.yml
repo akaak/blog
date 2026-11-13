@@ -1,0 +1,31 @@
+# Author Notes
+#
+# Attach a dated follow-up note, correction, or reference link to an
+# existing post WITHOUT editing the post's own file. Key each entry by
+# the post's permalink minus extension (its Liquid `id` / `url` without
+# ".html") — the easiest way to get it right is to copy it from the
+# post's URL in your browser and drop the extension.
+#
+# Each note takes:
+#   date       (required) e.g. 2026-11-02
+#   text       (required) markdown ok
+#   label      (optional) e.g. Update, Correction, See also — defaults to "Note"
+#   link       (optional) a URL to reference
+#   link_text  (optional) link text — defaults to "Reference"
+#
+# Example (remove the leading "# " on every line to activate):
+#
+/2026/10/03/ai-adoption-changes-what-people-do:
+  - date: 2026-11-04
+    label: Comment 
+    text: >
+      Found a good follow-up framework that extends the 2x2 in this post — worth a read.
+
+      Second Line follow-up framework that extends the 2x2 in this post — worth a read.
+    link: https://example.com/related-article
+    link_text: "Related article"
+
+  - date: 2026-11-14
+    label: Comment 
+    text: >
+      Another text comment here.
